@@ -17,7 +17,7 @@ const BrideAndGroom = () => {
               className="w-48 h-48 rounded-full mb-8"
             />
             <h3 className="text-5xl font-medium font-head mb-4 text-gray-800">
-              Rossiani Hutami
+              Cinderella
             </h3>
             <div className="mb-4">
               <TextWithLine>Pengantin Perempuan</TextWithLine>
@@ -39,7 +39,7 @@ const BrideAndGroom = () => {
                 className="w-48 h-48 rounded-full mb-8"
               />
               <h3 className="text-5xl font-medium font-head mb-4 text-gray-800">
-                Fauzi Al Aziz
+                Prince Charming
               </h3>
             </div>
             <div className="flex flex-col items-center">
