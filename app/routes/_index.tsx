@@ -22,11 +22,11 @@ import GalleryPhotos from "~/components/GalleryPhotos";
 export const meta: V2_MetaFunction = () => {
   return [
     {
-      title: "Undangan Pernikahan - Ami & Fauzi",
+      title: "Our wedding - Shadil & Huzaifiya",
     },
     {
       description:
-        "Sabtu, 30 Juli 2022 di Taman Mini Perumnas Batu Galing, Bengkulu",
+        "Saturday, 17 March 2027 di Taman Mini Perumnas Batu Galing, Bengkulu",
     },
     {
       "og:image": ogimage,
@@ -35,10 +35,10 @@ export const meta: V2_MetaFunction = () => {
       "og:image:type": "image/jpeg",
     },
     {
-      "og:site_name": "amifauzi",
+      "og:site_name": "shadil",
     },
-    { "og:url": "https://www.amifauzi.com/" },
-    { "og:title": "Undangan Pernikahan - Ami & Fauzi" },
+    { "og:url": "https://www.shadil.com/" },
+    { "og:title": "Our wedding  - Shadil & Huzaifiya" },
     {
       "og:description": `Sabtu, 30 Juli 2022 di Taman Mini Perumnas Batu Galing, Bengkulu`,
     },
